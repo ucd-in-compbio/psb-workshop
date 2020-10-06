@@ -45,11 +45,11 @@ _Zinaida Perova is a Project Lead at the European Bioinformatics Institute. Her 
 In the field of bioinformatics software development, there is sometimes a tendency to quickly move on with system architecture specification of what looks like the obvious solution for a tool or a service. It is rare to dedicate time on understanding the workflows and needs of the intended users of those tools or systems. Building knowledge about user needs and getting feedback on whether suggested solutions will help teams build tools and services which help researchers do their work in a more efficient way. Sharing the insights of those findings helps to align multi- disciplinary or international teams, so that everyone is working towards a common outcome.
 I will talk about the user research methods we applied for two of our projects - the Human Cell Atlas data platform and the COVID-19 Data portal. I will share our experience and how these user research activities helped align the team, improve our understanding of user needs and guide the development of those portals.
 
-_Galabina is a User Experience Architect at the European Bioinformatics Institute. She is currently working on the Data Submission process for the Human Cell Atlas and on the COVID-19 Data Portal: covid19dataportal.org. She has worked in the field of product management and user experience design for the last 15 years, bringing her expertise to a variety of online products and services._
+_Galabina is a User Experience Architect at the European Bioinformatics Institute. She is currently working on the Data Submission process for the Human Cell Atlas and on the COVID-19 Data Portal: [covid19dataportal.org](https://covid19dataportal.org). She has worked in the field of product management and user experience design for the last 15 years, bringing her expertise to a variety of online products and services._
 
 ## Organizers
 
-**Nils Gehlenborg (Harvard Medical School)**
+**[Nils Gehlenborg](http://gehlenborglab.org) (Harvard Medical School)**
 
 _Nils has over 15 years of experience in applying user-centered design approaches in biomedical data visualization tool development and has played a central role in the establishment of the VIZBI and BioVis meetings._
 
